@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980383455394",
+    "project_id": "game-on-e8b40",
+    "storage_bucket": "game-on-e8b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980383455394:android:8766e73434b632bcae5ffb",
+        "android_client_info": {
+          "package_name": "com.example.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980383455394-d6d1hfs5v86s5khlhv6rdu0qtqaomgk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4g75DAI6CcNzfACOgPEIHPYC0lukyES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980383455394-d6d1hfs5v86s5khlhv6rdu0qtqaomgk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
